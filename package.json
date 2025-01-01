@@ -1,6 +1,6 @@
 {
   "name": "use-boolean-hook",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple React hook to manage and manipulate boolean state in your React applications.",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
