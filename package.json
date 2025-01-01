@@ -10,11 +10,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/use-boolean-hook.git"
+    "url": "https://github.com/omeryaldirgan/use-boolean-hook.git"
   },
-  "homepage": "https://github.com/yourusername/use-boolean-hook#readme",
+  "homepage": "https://github.com/omeryaldirgan/use-boolean-hook#readme",
   "bugs": {
-    "url": "https://github.com/yourusername/use-boolean-hook/issues"
+    "url": "https://github.com/omeryaldirgan/use-boolean-hook/issues"
   },
   "scripts": {
     "build": "tsc",
