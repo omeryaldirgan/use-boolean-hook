@@ -1,0 +1,37 @@
+{
+  "name": "use-boolean-hook",
+  "version": "1.0.0",
+  "description": "A simple React hook to manage and manipulate boolean state in your React applications.",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "types": "dist/index.d.ts",
+  "keywords": ["react", "hook", "boolean", "state", "useBoolean", "custom-hook"],
+  "author": "omeryaldirgan@hotmail.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/use-boolean-hook.git"
+  },
+  "homepage": "https://github.com/yourusername/use-boolean-hook#readme",
+  "bugs": {
+    "url": "https://github.com/yourusername/use-boolean-hook/issues"
+  },
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  },
+  "files": [
+    "dist/",
+    "README.md",
+    "logo.png"
+  ],
+  "devDependencies": {
+    "@types/react": "^18.2.14",
+    "@types/react-dom": "^18.2.7",
+    "typescript": "^5.2.2"
+  }
+}
